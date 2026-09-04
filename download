@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+
+# Gerçek hasta/örnek verisi asla repoya commit edilmemeli.
+# examples/ klasöründeki test_sample.ab1 SENTETİK veridir, güvenlidir.
+*.ab1
+!examples/test_sample.ab1
+
+# Analiz çıktıları (kullanıcı kendi çalıştırmasında üretir, repoya gerek yok)
+# examples/ klasöründeki demo çıktıları hariç (README'de görsel olarak kullanılıyor)
+rapor*.csv
+!examples/rapor.csv
+*_zoom.png
+!examples/kromatogram_zoom.png
