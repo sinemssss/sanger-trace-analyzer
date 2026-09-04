@@ -11,7 +11,7 @@ otomatik ayırt eder — biyolog yalnızca işaretlenen pozisyonlara bakar.
 ## Neden
 
 Bir genetik tanı merkezinde staj sırasında, YMİK ve benzeri analizlerde her
-pikin elle kontrol edildiğini gözlemledim. Bu araç, günün sonunda çıkan çok
+pikin manuel kontrol edildiğini gözlemledim. Bu araç, günün sonunda çıkan çok
 sayıda `.ab1` dosyasını otomatik tarayarak sadece "dikkat gerektiren"
 pozisyonları öne çıkarır. STR, kimerizm ve kanser mutasyon taramaları gibi
 heterozigot/mixed pik tespitinin önemli olduğu senaryolara uyarlanabilir.
