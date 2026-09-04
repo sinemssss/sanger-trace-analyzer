@@ -126,6 +126,7 @@ sanger-trace-analyzer/
 - Gerçek `.ab1` dosyalarıyla eşik kalibrasyonu (ROC eğrisi ile optimum eşik)
 - İndel-farkında hizalama (örn. basit Needleman-Wunsch) ile referans karşılaştırması
 - Toplu (batch) mod: bir klasördeki tüm `.ab1` dosyalarını tarayıp özet rapor üretme
+     > 🔗 Bu projenin devamı: [PCR Primer Designer](https://github.com/sinemssss/pcr-primer-designer) — önce primer tasarla, PCR yap, sonra bu araçla Sanger sonucunu oku.
 - STR analizi için: tekrar sayısı tahmini modülü
 - Kimerizm için: donör/alıcı oranı hesaplama modülü (bilinen polimorfik pozisyonlarda)
 
